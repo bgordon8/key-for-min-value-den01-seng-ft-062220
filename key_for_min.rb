@@ -11,5 +11,5 @@ name_hash.each do |key, value|
   end
 
  end
-low_value_key
+ puts low_value_key
 end
